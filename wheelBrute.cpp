@@ -64,3 +64,5 @@ int main()
 		}
 	} while (dia <= 100.0);
 }
+
+// https://bthouseblog.files.wordpress.com/2017/02/tire-rotation-explained-diameter_distance_traveledteach.pdf
